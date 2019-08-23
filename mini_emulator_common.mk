@@ -25,7 +25,6 @@ PRODUCT_PACKAGES += \
     vibrator.goldfish \
     qemu-props \
     qemud \
-    libGLES_android \
     libGLESv1_CM_emulation \
     lib_renderControl_enc \
     libEGL_emulation \
